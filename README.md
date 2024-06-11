@@ -18,6 +18,8 @@ Download the executable files from the repository:
 ```sh
 git clone https://github.com/bpike34/CHEZBURGER.git
 ```
+# Getting a release
+because some people don't have teh beeg brain, I will always update the releases page with easy downloads for every major update! :D
 ## Running the Executable
 To run the executable, simply double-click on the `chezburgerSAFE.exe` file or execute it from the command line:
 ```sh
