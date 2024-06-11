@@ -1,4 +1,3 @@
-```markdown
 # CHEZBURGER
 
 Chezburger.exe is a playful, troll-style executable designed for entertainment purposes. While it can be fun, it is essential to exercise caution when running it due to its potentially disruptive nature.
@@ -59,6 +58,6 @@ This executable is intended for fun and educational purposes only. The author is
 If you have any questions or issues, feel free to open an issue on the repository or contact me at [bpike3456@proton.me](mailto:bpike3456@proton.me).
 
 Remember, always use executables like this responsibly and understand the potential impacts on your system and data. Happy trolling!
-```
+
 
 This version is formatted for readability and clarity, using proper Markdown syntax to ensure it displays correctly on GitHub.
