@@ -13,9 +13,7 @@ Use this executable in a controlled environment, such as a virtual machine, to a
 
 # Installation
 Download the executable files from the repository:
-# Copy code
 git clone https://github.com/bpike34/CHEZBURGER.git
-Navigate to the project directory:
 # Running the Executable
 To run the executable, simply double-click on the chezburgerSAFE.exe file or execute it from the command line:
 Copy code
